@@ -36,6 +36,8 @@ It can read out notifications from mobile and as a further application respond t
 Add ons
 
 Anuj serves the basic features of a chat bot i.e. responds to question including time, lighting conditions, basic wh questions, etc.
+
+Additionally Added frontend GUI 
 Tech- stacks used:
 
 1. SpeechRecognizer, Google API for speech to text conversion
